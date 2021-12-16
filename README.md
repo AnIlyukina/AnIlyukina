@@ -10,8 +10,7 @@
 :dart: стремлюсь к написанию идеально чистого кода и пополнею количества своих проектов в моем GitHub      
 :dart: в перерывах предпочту увеличить количество шагов за день и подышать свежим воздухом       
 :dart: книжки по психологии и большой теннис тоже по душе      
-
-__
+___
 
 #### За время обучения в Яндекс Практикуме мной освоены:
 <img align = 'left' alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png'>
