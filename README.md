@@ -11,9 +11,9 @@
 :dart: в перерывах предпочту увеличить количество шагов за день и подышать свежим воздухом       
 :dart: книжки по психологии и большой теннис тоже по душе      
 
-___
+__
 
-#### За время обучения в Яндекс Практикуме мной осноены:
+#### За время обучения в Яндекс Практикуме мной освоены:
 <img align = 'left' alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png'>
 <img align = 'left' alt ='CSS' width ='30px' src ='https://revvster.in/wp-content/uploads/2019/02/css3-logo-png-transparent-1920x1920.png'>
 <img align = 'left' alt ='JavaScript' width ='30px' src ='https://www.cischool.ru/wp-content/uploads/2021/04/Depositphotos_41138921_l-2015.jpg'>
