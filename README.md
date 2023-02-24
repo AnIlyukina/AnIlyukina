@@ -3,8 +3,9 @@
 ___
 
 <img align = 'left' alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png'>
-<img align = 'left' alt ='CSS' width ='30px' src ='https://revvster.in/wp-content/uploads/2019/02/css3-logo-png-transparent-1920x1920.png'>
-<img align = 'left' alt ='JavaScript' width ='30px' src ='https://www.cischool.ru/wp-content/uploads/2021/04/Depositphotos_41138921_l-2015.jpg'>
+<img align = 'left' alt ='CSS' width ='30px' src ='https://static.javatpoint.com/csspages/images/css-tutorial.png'>
+<img align = 'left' alt ='SCSS' width ='30px' src ='https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png'>
+<img align = 'left' alt ='JavaScript' width ='30px' src ='https://img1.freepng.ru/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg'>
 <img align = 'left' alt ='React' width ='30px' src ='https://magantigroupllc.com/images/tech-logos/react-native.png'>
 <img align = 'left' alt ='Vue' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png'>
 <img align = 'left' alt ='VisualStudioCode' width ='30px' src ='https://miro.medium.com/max/1200/1*AmHbL-hnvRD6JJGruVu64A.png'>
