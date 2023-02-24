@@ -1,5 +1,4 @@
-![](https://limousinesolutions.com/images/inner_banner2.jpg)
-### Всем привет 👋 ![](https://komarev.com/ghpvc/?username=AnIlyukina) 
+### 👋 ![](https://komarev.com/ghpvc/?username=AnIlyukina) 
 ___
 
 <img align = 'left' alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png'>
