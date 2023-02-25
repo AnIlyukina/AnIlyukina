@@ -19,7 +19,3 @@ ___
 #### Статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnIlyukina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
-___
-Ниже можно ознакомиться с моими проектами, буду рада обратной связи :blush:
-
